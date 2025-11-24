@@ -8,7 +8,10 @@ def index(request):
 
 def post_detail(request, id):
     template_name = 'blog/detail.html'
-    return render(request, template_name, posts)
+    context = {
+
+    }
+    return render(request, template_name, context)
 
 def category_posts(request):
     template_name = 'blog/category.html'
