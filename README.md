@@ -5,7 +5,7 @@
 ## 🚀 Как запустить
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/Glockych/VIVT-django.git
+git clone https://github.com/Glockych/django_sprint1.git
 cd django_sprint1
 
 # 2. Создать и активировать виртуальное окружение
